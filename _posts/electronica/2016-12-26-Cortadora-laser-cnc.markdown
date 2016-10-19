@@ -9,7 +9,7 @@ tags: elec laser
 Intérprete código GCODE
 -----------------------
 
-{% highlight c %}
+{% highlight c++ %}
 
 #include <stdio.h>
 #include <math.h>
