@@ -9,12 +9,17 @@ tags: elec laser
 Intérprete código GCODE
 -----------------------
 
-{% raw %}
-Prueba de tipo raw
-{% endraw %}
+{% highlight bash %}
+Prueba de tipo bash
+{% highlight bash %}
 
 Drivers de los motores paso a paso
 ----------------------------------
 
 Generador de código GCODE
 -------------------------
+
+Plug-in de raster a gcode en inkscape.
+
+Estructura
+----------
