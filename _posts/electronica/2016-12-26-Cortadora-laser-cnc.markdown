@@ -9,8 +9,20 @@ tags: elec laser
 Intérprete código GCODE
 -----------------------
 
-{% highlight bash %}
-Prueba de tipo bash
+{% highlight c %}
+
+#include <stdio.h>
+#include <math.h>
+
+double pitagoras(double a, double b){
+return sqrt(a*a+b*b);
+}
+
+main(){
+
+printf("valor de c %f\n",pitagoras(3,4));
+return(0);
+}
 {% endhighlight %}
 
 Drivers de los motores paso a paso
