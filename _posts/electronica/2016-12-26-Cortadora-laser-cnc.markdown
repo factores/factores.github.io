@@ -11,7 +11,7 @@ Intérprete código GCODE
 
 {% highlight bash %}
 Prueba de tipo bash
-{% endhighlight bash %}
+{% endhighlight %}
 
 Drivers de los motores paso a paso
 ----------------------------------
