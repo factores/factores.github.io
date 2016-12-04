@@ -3,7 +3,9 @@ layout: post
 title:  "Trucos para aumentar la adherencia de la pieza en impresión plástica 3D" 
 date:   2016-07-12 18:39:22
 comments: true
-categories: fabricar
+categories: mecanica
+tag:
+mec
 ---
 
 Acrilonitrilo butadieno estireno (ABS)
