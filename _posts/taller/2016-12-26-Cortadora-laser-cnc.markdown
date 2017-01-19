@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cortadora laser CNC"
+title:  "Cortadora/grabadora laser CNC"
 date:   2016-12-26 18:39:22
 comments: true
 categories: electronica
