@@ -3,7 +3,7 @@ layout: post
 title:  "Cortadora/grabadora laser CNC"
 date:   2016-12-26 18:39:22
 comments: true
-categories: electronica
+categories: taller
 tags: elec laser
 ---
 Intérprete código GCODE
