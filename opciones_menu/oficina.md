@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Oficina
-permalink: /oficina/
+title: Proyectos
+permalink: /proyectos/
 ---
 
 <div class="home">
