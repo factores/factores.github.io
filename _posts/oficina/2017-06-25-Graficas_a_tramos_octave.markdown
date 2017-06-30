@@ -27,3 +27,10 @@ Para mostrar la gráfica finalmente usaremos.
 {% highlight octave %}
 plot(x,y)
 {% endhighlight %}
+
+Con los siguientes comandos podremos añadir un título a los ejes.
+
+{% highlight octave %}
+xlabel("abscisa")
+ylabel("ordenada")
+{% endhighlight %}
