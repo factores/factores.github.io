@@ -34,3 +34,5 @@ Con los siguientes comandos podremos añadir un título a los ejes.
 xlabel("abscisa")
 ylabel("ordenada")
 {% endhighlight %}
+
+![My helpful screenshot]({{ site.url }}/img/tension.png){:.center-image }
