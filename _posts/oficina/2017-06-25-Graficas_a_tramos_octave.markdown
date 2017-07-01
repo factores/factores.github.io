@@ -35,4 +35,4 @@ xlabel("abscisa")
 ylabel("ordenada")
 {% endhighlight %}
 
-![My helpful screenshot]({{ site.url }}/img/tension.png){:.center-image }
+![My helpful screenshot]({{ site.url }}/img/tension.png){:.image}

@@ -426,8 +426,8 @@ td{
     padding: 5px;
 }
 
-.center-image
-{
-    margin: 0 auto;
-    display: block;
+.image {
+    max-width:100%;
+    max-height:100%;
+    vertical-align: middle;
 }
