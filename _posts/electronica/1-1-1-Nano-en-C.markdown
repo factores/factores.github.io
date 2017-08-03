@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Programación de Arduino nano (atmega328p) en C"
+title:  "Programación de Arduino nano [atmega328p] en C"
 date:   2017-05-10 18:39:22
 comments: true
 categories: electronica
