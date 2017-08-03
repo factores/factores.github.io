@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FABRICACION
-permalink: /fabricacion/
+title: MECANICA
+permalink: /mecanica/
 ---
 
 <div class="home">
