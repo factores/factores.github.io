@@ -3,7 +3,7 @@ layout: post
 title:  "Gráfica definida a trozos en octave"
 date:   2017-06-24 18:39:22
 comments: true
-categories: proyecto
+categories: oficina
 tags: octave
 ---
 

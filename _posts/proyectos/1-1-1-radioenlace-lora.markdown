@@ -3,7 +3,7 @@ layout: post
 title:  "Radioenlace LoRa 433 Mhz"
 date:   2017-07-25 18:39:22
 comments: true
-categories: oficina
+categories: proyecto
 tags: proyecto
 ---
 

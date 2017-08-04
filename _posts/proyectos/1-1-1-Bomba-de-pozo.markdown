@@ -3,7 +3,7 @@ layout: post
 title:  "Bomba de pozo"
 date:   2017-07-29 18:39:22
 comments: true
-categories: oficina
+categories: proyecto
 tags: proyecto
 ---
 
