@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TELECO
-permalink: /teleco/
+title: TELECOMUNICACIONES
+permalink: /telecomunicaciones/
 ---
 
 <div class="home">
