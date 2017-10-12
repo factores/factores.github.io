@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Cortadora/grabadora laser CNC"
+title:  "Cortadora de vinilo Silhouette Cameo"
 date:   2016-12-26 18:39:22
 comments: true
 categories: taller
-tags: fab mec
+tags: fab 
 ---
+
 Intérprete de gcode
 -------------------
 
