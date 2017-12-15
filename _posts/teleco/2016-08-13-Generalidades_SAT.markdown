@@ -2,10 +2,10 @@
 layout: post
 title:  "Generalidades SAT"
 date:   2016-08-13 10:39:22
-categories: multimedia
+categories: teleco
 tags:
 - tv
-comments: true
+comments: false
 ---
 
 Televisión digital por Satélite

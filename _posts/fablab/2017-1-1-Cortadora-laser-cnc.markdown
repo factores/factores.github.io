@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Cortadora/grabadora laser CNC"
+title:  "Cortadora/grabadora laser CNC estado sólido"
 date:   2016-12-26 18:39:22
 comments: true
-categories: taller
-tags: fab mec
+categories: fablab
+tags: fab 
 ---
 Intérprete de gcode
 -------------------
