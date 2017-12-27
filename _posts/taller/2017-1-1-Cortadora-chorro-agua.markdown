@@ -3,7 +3,7 @@ layout: post
 title:  "Cortadora de chorro de agua"
 date:   2016-12-26 18:39:22
 comments: true
-categories: fablab
+categories: taller
 tags: fab 
 ---
 Intérprete de gcode

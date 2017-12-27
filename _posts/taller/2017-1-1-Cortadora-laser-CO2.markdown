@@ -3,7 +3,7 @@ layout: post
 title:  "Cortadora/grabadora laser CO2 3020"
 date:   2016-12-26 18:39:22
 comments: true
-categories: fablab
+categories: taller
 tags: fab 
 ---
 
