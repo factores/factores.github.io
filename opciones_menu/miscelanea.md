@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MISCELANEA
-permalink: /miscelanea/
+title: MISCELLANEUS
+permalink: /miscellaneus/
 ---
 
 <div class="home">
