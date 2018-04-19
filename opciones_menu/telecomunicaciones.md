@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TELECOMUNICACIONES
+title: TELECO
 permalink: /telecomunicaciones/
 ---
 
