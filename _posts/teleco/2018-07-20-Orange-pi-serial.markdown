@@ -9,10 +9,10 @@ tags: auto
 Pines de conexión
 -----------------
 
-{% highlight bash %}
+
 
 Conectaremos nuestro ordenador a un FT232RL FTDI USB, conectando los pines de TX, RX y GND según se indica en la imagen a los pines de la Orange Pi.
-
+{% highlight bash %}
 TX  -> RX
 RX  -> TX
 GND -> GND
