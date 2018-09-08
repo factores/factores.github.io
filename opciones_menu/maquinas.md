@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TALLER
-permalink: /taller/
+title: MAQUINAS
+permalink: /maquinas/
 ---
 
 <div class="home">
